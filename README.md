@@ -1,5 +1,5 @@
 # 💫 Hakkımda:
-🔭 Öğrenme Yolculuğumu Paylaşıyorum<br>👯 Isparta Uygulamalı Bilimler Üniversitesinde Okuyorum<br>⚡Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim<br>🌱 Şu anda Microsoft .Net Framework'ünü Kullanarak Projeler Geliştiriyorum<br>💬 Beni LinkedIn'den Ekleyebilirsiniz :)
+🔭 Öğrenme Yolculuğumu Paylaşıyorum<br> Isparta Uygulamalı Bilimler Üniversitesinde Okuyorum<br>⚡Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim<br>🌱 Şu anda Microsoft .Net Framework'ünü Kullanarak Projeler Geliştiriyorum<br>💬 Beni LinkedIn'den Ekleyebilirsiniz :)
 
 
 ## 🌐 Socials:
